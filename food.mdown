@@ -5,6 +5,7 @@
 * Saha (thai)
 * peep (thai)
 * excellent dumpling house
+* prosperity dumpling house
 * vietnamese sammy spot
 * the bomb pho spot
 * veggie chinese spot (buddha something or other)
@@ -27,7 +28,7 @@
 
 # AMERICAN
 * mudville
-* that mac n cheese place
+* that mac n cheese place (delicatessen)
 
 # EURO
 * columbine (baller sammies in tribeca)
@@ -45,6 +46,7 @@
 * lombardis
 * l'asso
 * two boots
+* pomodoro
 * rubirosa
 * fiat cafe
 * galli (new spot; kinda wack apps but good pasta)
@@ -62,3 +64,4 @@
 # BALLER
 * lure
 * mercer kitchen
+* kittichai (60 thompson)
